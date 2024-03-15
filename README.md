@@ -64,7 +64,8 @@
 
 - [Javascript Project: Word Counter](https://github.com/ammara-Ilyas/Javascript_Projects/tree/main/Word%20counter)
 - [React.js Quiz App](https://github.com/ammara-Ilyas/next_projects/tree/master/src/app/quiz)
-- [Next.js Rando Game](https://github.com/ammara-Ilyas/next_projects/tree/master/src/app/random)
+- [Typescript Adventure Game]([https://github.com/ammara-Ilyas/next_projects/tree/master/src/app/random](https://github.com/ammara-Ilyas/Typescript-Projects/tree/master/Adventure%20Game))
+- [Next.js Random Game]([https://github.com/ammara-Ilyas/next_projects/tree/master/src/app/random))
 - [Uploading data to Firebase Storage with Next.js](https://github.com/ammara-Ilyas/Firebase_next_app)
 <!-- BLOG-POST-LIST:END -->
 
