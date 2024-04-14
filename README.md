@@ -3,15 +3,10 @@
 ### A passionate frontend developer from Pakistan
 
 <p align="left">
-  <!-- First profile view -->
   <img src="https://komarev.com/ghpvc/?username=ammara-ilyas&label=Profile%20views&color=0e75b6&style=flat" alt="ammara-ilyas" />
 </p>
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=piyushgarg-dev" alt="piyushgarg-dev" />
-  </a>
-</p>
+
 
 - 📫 How to reach me: ammarailyas361@gmail.com
 
@@ -79,6 +74,4 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=ammara-ilyas&show_icons=true&locale=en" alt="ammara-ilyas" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ammara-ilyas&" alt="ammara-ilyas" />
-</p>
+
