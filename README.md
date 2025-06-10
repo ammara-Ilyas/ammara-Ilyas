@@ -1,6 +1,6 @@
 # Hi 👋, I'm Ammara Ilyas
 
-### A passionate frontend developer from Pakistan
+### A passionate full stack developer from Pakistan
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=ammara-ilyas&label=Profile%20views&color=0e75b6&style=flat" alt="ammara-ilyas" />
